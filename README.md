@@ -37,7 +37,8 @@ In this repositoty you can find some useful algorithms that can simplify your pr
   </thead>
 
   <tbody>
-    <tr><td>1-Ricerca binaria o dicotomica / 3-RicercaDicotomica</td> <td>It searches for an element within a vector</td></tr>
+    <tr><td>1-Ricerca binaria o dicotomica</td> <td rowspan="2">It searches for an element within a vector</td></tr>
+    <tr><td>3-RicercaDicotomica</td></tr>
     <tr><td>3-Formica di Langton</td> <td>It shows how the Langton ant algorithm works</td></tr>
     <tr><td>4-VettoreDinamico</td> <td>It shows how to use a dynamic vector in java</td></tr>
     <tr><td>5-ProdottotraMatrici</td> <td>It calculates the product of 2 randomly generated matrix</td></tr>
