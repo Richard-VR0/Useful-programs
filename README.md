@@ -62,8 +62,8 @@ In this repositoty you can find some useful algorithms that can simplify your pr
 </table>
 
 # Info
-To open java files in netbeans:
+To open java files on NetBeans:
 Open netbeans->Open project->Choose project to open
 
-To open java files in another editor:
-Open the project folder->Open the src->Open the file . java
+To open java files on another editor:
+Open the project folder->Open the src->Open the .java file
