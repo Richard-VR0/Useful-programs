@@ -23,8 +23,8 @@ In this repositoty you can find some useful algorithms that can simplify your pr
   </thead>
 
   <tbody>
-    <tr><td>1/4-Gestione di una pila LIFO (Stack)</td> <td>  </td>It manages a stack with Lifo Policy (Last In First Out)</tr>
-    <tr><td>2/3-Gestione di una coda FIFO</td> <td>  </td>It manages a queue with Fifo Policy (First In First Out)</tr>
+    <tr><td>1/4-Gestione di una pila LIFO (Stack)</td> <td>It manages a stack with Lifo Policy (Last In First Out)</td></tr>
+    <tr><td>2/3-Gestione di una coda FIFO</td> <td>It manages a queue with Fifo Policy (First In First Out)</td></tr>
     <tr><td>5-RecordinJava</td> <td>It shows the operation of a record in java</td></tr>
     <tr><td>6-TabelleinJava</td> <td>It shows the operation of a table in java</td></tr>
   </tbody>
