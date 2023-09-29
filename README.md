@@ -61,7 +61,7 @@ In this repositoty you can find some useful algorithms that can simplify your pr
   </tbody>
 </table>
 
-# Info
+# Info for Java
 To open java files on NetBeans:
 Open netbeans->Open project->Choose project to open
 
