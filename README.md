@@ -39,7 +39,7 @@ In this repositoty you can find some useful algorithms that can simplify your pr
   <tbody>
     <tr><td>1-Ricerca binaria o dicotomica</td> <td rowspan="2">It searches for an element within a vector</td></tr>
     <tr><td>3-RicercaDicotomica</td></tr>
-    <tr><td>3-Formica di Langton</td> <td>It shows how the Langton ant algorithm works</td></tr>
+    <tr><td>2-Formica di Langton</td> <td>It shows how the Langton ant algorithm works</td></tr>
     <tr><td>4-VettoreDinamico</td> <td>It shows how to use a dynamic vector in java</td></tr>
     <tr><td>5-ProdottotraMatrici</td> <td>It calculates the product of 2 randomly generated matrix</td></tr>
     <tr><td>6-CalcoloMatriceTrasposta</td> <td>It calculates the transposition of a randomly generated matrix</td></tr>
@@ -60,3 +60,10 @@ In this repositoty you can find some useful algorithms that can simplify your pr
     <tr><td>4-SistemadiLogin</td> <td>It simulates a login system using a text file like DB</td></tr>
   </tbody>
 </table>
+
+# Info
+To open java files in netbeans:
+Open netbeans->Open project->Choose project to open
+
+To open java files in another editor:
+Open the project folder->Open the src->Open the file . java
