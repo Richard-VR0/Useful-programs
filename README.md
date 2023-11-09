@@ -54,10 +54,10 @@ In this repositoty you can find some useful algorithms that can simplify your pr
   </thead>
 
   <tbody>
-    <tr><td>1-IO da file txt</td> <td>It shows how to interact with a text file (input / output) in C++</td></tr>
-    <tr><td>2-LetturadaFileconScanner</td> <td>It shows how to interact with an input text file in java</td></tr>
-    <tr><td>3-ScritturasuFileconScanner</td> <td>It shows how to interact with an output text file in java</td></tr>
-    <tr><td>4-SistemadiLogin</td> <td>It simulates a login system using a text file like DB</td></tr>
+    <tr><td>1-IO da file txt</td> <td>C++</td> <td>It shows how to interact with a text file (input / output) in C++</td></tr>
+    <tr><td>2-LetturadaFileconScanner</td> <td>Java</td></td> <td>It shows how to interact with an input text file in java</td></tr>
+    <tr><td>3-ScritturasuFileconScanner</td> <td>Java</td> <td>It shows how to interact with an output text file in java</td></tr>
+    <tr><td>4-SistemadiLogin</td> <td>Java</td> <td>It simulates a login system using a text file like DB</td></tr>
   </tbody>
 </table>
 
