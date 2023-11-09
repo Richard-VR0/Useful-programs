@@ -23,22 +23,22 @@ In this repositoty you can find some useful algorithms that can simplify your pr
   </thead>
 
   <tbody>
-    <tr><td>1/4-Gestione di una pila LIFO (Stack)</td> <td></td> <td>It manages a stack with Lifo Policy (Last In First Out)</td></tr>
-    <tr><td>2/3-Gestione di una coda FIFO</td> <td>It manages a queue with Fifo Policy (First In First Out)</td></tr>
-    <tr><td>5-RecordinJava</td> <td>It shows the operation of a record in java</td></tr>
-    <tr><td>6-TabelleinJava</td> <td>It shows the operation of a table in java</td></tr>
+    <tr><td>1/4-Gestione di una pila LIFO (Stack)</td> <td>C++ / Java</td> <td>It manages a stack with Lifo Policy (Last In First Out)</td></tr>
+    <tr><td>2/3-Gestione di una coda FIFO</td> <td>C++ / Java</td> <td>It manages a queue with Fifo Policy (First In First Out)</td></tr>
+    <tr><td>5-RecordinJava</td> <td>Java</td> <td>It shows the operation of a record in java</td></tr>
+    <tr><td>6-TabelleinJava</td> <td>Java</td> <td>It shows the operation of a table in java</td></tr>
   </tbody>
 </table>
 
 # Operations on carriers and matrices
 <table align="center">
   <thead>
-    <tr><th>Name</th> <th>Function</th></tr>
+    <tr><th>Name</th> <th>Lang</th> <th>Function</th></tr>
   </thead>
 
   <tbody>
-    <tr><td>1-Ricerca binaria o dicotomica</td> <td rowspan="2">It searches for an element within a vector</td></tr>
-    <tr><td>3-RicercaDicotomica</td></tr>
+    <tr><td>1-Ricerca binaria o dicotomica</td>  <td>C++</td></td> <td rowspan="2">It searches for an element within a vector</td></tr>
+    <tr><td>Java</td> <td>3-RicercaDicotomica</td></tr>
     <tr><td>2-Formica di Langton</td> <td>It shows how the Langton ant algorithm works</td></tr>
     <tr><td>4-VettoreDinamico</td> <td>It shows how to use a dynamic vector in java</td></tr>
     <tr><td>5-ProdottotraMatrici</td> <td>It calculates the product of 2 randomly generated matrix</td></tr>
