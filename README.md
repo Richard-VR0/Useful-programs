@@ -61,6 +61,17 @@ In this repositoty you can find some useful algorithms that can simplify your pr
   </tbody>
 </table>
 
+# External libraries (homemade)
+<table align="center">
+  <thead>
+    <tr><th>Name</th> <th>Lang</th> <th>Function</th></tr>
+  </thead>
+
+  <tbody>
+    <tr><td>utility.h</td> <td>C</td> <td>Functions for monodimensional arrays and date structures</td></tr>
+  </tbody>
+</table>
+
 # Info for Java
 To open java files on NetBeans:
 Open netbeans → Open project → Choose project to open
