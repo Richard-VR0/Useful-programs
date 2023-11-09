@@ -4,26 +4,26 @@ In this repositoty you can find some useful algorithms that can simplify your pr
 # Sorting algorithms
 <table align="center">
   <thead>
-    <tr><th>Name</th> <th>Function</th></tr>
+    <tr><th>Name</th> <th>Lang</th> <th>Function</th></tr>
   </thead>
 
   <tbody>
-    <tr><td>1-Selection Sort / 4-SelectionSort</td> <td>It sorts a vector using sorting by selection (C++ / Java)</td></tr>
-    <tr><td>2-Bubble Sort</td> <td>It sorts a vector using bubble sorting</td></tr>
-    <tr><td>3-Merge Sort</td> <td>It sorts a vector using recursive sorting based on comparisons</td></tr>
-    <tr><td>5-Insertion Sort</td> <td>It sorts a vector using insertion sort</td></tr>
-    <tr><td>6-Quick Sort</td> <td>It sorts a vector using recursive sorting (the fastest)</td></tr>
+    <tr><td>1-Selection Sort / 4-SelectionSort</td> <td>C++ / Java</td> <td>It sorts a vector using sorting by selection</td></tr>
+    <tr><td>2-Bubble Sort</td> <td>C++</td> <td>It sorts a vector using bubble sorting</td></tr>
+    <tr><td>3-Merge Sort</td> <td>C++</td> <td>It sorts a vector using recursive sorting based on comparisons</td></tr>
+    <tr><td>5-Insertion Sort</td> <td>Java</td> <td>It sorts a vector using insertion sort</td></tr>
+    <tr><td>6-Quick Sort</td> <td>Java</td> <td>It sorts a vector using recursive sorting (the fastest)</td></tr>
   </tbody>
 </table>
 
 # Management of data structures
 <table align="center">
   <thead>
-    <tr><th>Name</th> <th>Function</th></tr>
+    <tr><th>Name</th> <th>Lang</th> <th>Function</th></tr>
   </thead>
 
   <tbody>
-    <tr><td>1/4-Gestione di una pila LIFO (Stack)</td> <td>It manages a stack with Lifo Policy (Last In First Out)</td></tr>
+    <tr><td>1/4-Gestione di una pila LIFO (Stack)</td> <td></td> <td>It manages a stack with Lifo Policy (Last In First Out)</td></tr>
     <tr><td>2/3-Gestione di una coda FIFO</td> <td>It manages a queue with Fifo Policy (First In First Out)</td></tr>
     <tr><td>5-RecordinJava</td> <td>It shows the operation of a record in java</td></tr>
     <tr><td>6-TabelleinJava</td> <td>It shows the operation of a table in java</td></tr>
