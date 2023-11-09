@@ -38,12 +38,12 @@ In this repositoty you can find some useful algorithms that can simplify your pr
 
   <tbody>
     <tr><td>1-Ricerca binaria o dicotomica</td>  <td>C++</td></td> <td rowspan="2">It searches for an element within a vector</td></tr>
-    <tr><td>Java</td> <td>3-RicercaDicotomica</td></tr>
-    <tr><td>2-Formica di Langton</td> <td>It shows how the Langton ant algorithm works</td></tr>
-    <tr><td>4-VettoreDinamico</td> <td>It shows how to use a dynamic vector in java</td></tr>
-    <tr><td>5-ProdottotraMatrici</td> <td>It calculates the product of 2 randomly generated matrix</td></tr>
-    <tr><td>6-CalcoloMatriceTrasposta</td> <td>It calculates the transposition of a randomly generated matrix</td></tr>
-    <tr><td>7-OperazioniSulleListe</td> <td>It shows the various operations that can be done on the lists in python</td></tr>
+    <tr><td>3-RicercaDicotomica</td> <td>Java</td></tr>
+    <tr><td>2-Formica di Langton</td> <td>C++</td> <td>It shows how the Langton ant algorithm works</td></tr>
+    <tr><td>4-VettoreDinamico</td> <td>Java</td> <td>It shows how to use a dynamic vector in java</td></tr>
+    <tr><td>5-ProdottotraMatrici</td> <td>Java</td> <td>It calculates the product of 2 randomly generated matrix</td></tr>
+    <tr><td>6-CalcoloMatriceTrasposta</td> <td>Java</td> <td>It calculates the transposition of a randomly generated matrix</td></tr>
+    <tr><td>7-OperazioniSulleListe</td> <td>Python</td> <td>It shows the various operations that can be done on the lists in python</td></tr>
   </tbody>
 </table>
 
