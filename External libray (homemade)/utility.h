@@ -77,10 +77,53 @@ typedef struct {
 	int d, m, y;
 } data_t;
 
-//Inserimento della data con formato (dd/mm/yyyy)
+//Inserimento della data con formato (dd/mm/yyyy) con controllo sula validità (data >= 1/1/1800)
 void lettura_data(data_t *data) {
-	printf("Inserisci la data nel formato (dd/mm/yyyy): ");
-	scanf("%d/%d/%d", &data->d, &data->m, &data->y);
+	int errore;
+	
+	do {
+		errore = 0;
+		
+		printf("Inserire la data nel formato (dd/mm/yyyy): ");
+		scanf("%d/%d/%d", &data->d, &data->m, &data->y);
+		
+		if (data->y < 1800) {
+			errore = 1;
+		}
+		
+		if (data->m < 1 || data->m > 12) {
+			errore = 1;
+		}
+		
+		if (data->m == 1 || data->m == 3 || data->m == 5 || data->m == 7 || data->m == 8 || data->m == 10 || data->m == 12) {
+			if (data->d < 1 || data->d > 31) {
+				errore = 1;
+			}
+		}
+		else {
+			if (data->m == 4 || data->m == 6 || data->m == 9 || data->m == 11) {
+				if (data->d < 1 || data->d > 31) {
+					errore = 1;
+				}
+			}
+			else {
+				if (data->y % 4) {
+					if (data->d < 1 || data->d > 28) {
+						errore = 1;
+					}
+				}
+				else {
+					if (data->d < 1 || data->d > 29) {
+						errore = 1;
+					}
+				}
+			}
+		}
+		
+		if (errore) {
+			printf("\nErrore, data inserita non corretta, reinserire\n");
+		}
+	} while(errore);
 }
 
 //Stampa della data con formato (dd/mm/yyyy)
@@ -113,4 +156,8 @@ void bubblesort(int v[], int dim) {
 			}
 		}
 	} while (i < (dim - 2) && scambio == 1);
+}
+
+int media(int a, int b) {
+	return a + b;
 }
