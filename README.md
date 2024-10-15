@@ -61,6 +61,18 @@ In this repositoty you can find some useful algorithms that can simplify your pr
   </tbody>
 </table>
 
+# Socket
+<table align="center">
+  <thead>
+    <tr><th>Name</th> <th>Function</th></tr>
+  </thead>
+
+  <tbody>
+    <tr><td>1 - TCP</td></td> <td>Java<td> <td>tIt create a socket between client and server with TCP protocol<td></tr>
+    <tr><td>1 - UDP</td></td> <td>Java<td> <td>It create a socket between client and server with UDP protocol<td></tr>
+  </tbody>
+</table>
+
 # External libraries (homemade)
 <table align="center">
   <thead>
