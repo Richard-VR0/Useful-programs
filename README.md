@@ -61,7 +61,7 @@ In this repositoty you can find some useful algorithms that can simplify your pr
   </tbody>
 </table>
 
-# Socket
+# Sockets
 <table align="center">
   <thead>
     <tr><th>Name</th> <th>Function</th></tr>
