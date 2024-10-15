@@ -73,6 +73,9 @@ In this repositoty you can find some useful algorithms that can simplify your pr
   </tbody>
 </table>
 
+### Infos
+The Java source files is in the "ProjectName/Client/src/client/" and "ProjectName/Server/src/server/" directories
+
 # External libraries (homemade)
 <table align="center">
   <thead>
