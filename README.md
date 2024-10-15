@@ -50,7 +50,7 @@ In this repositoty you can find some useful algorithms that can simplify your pr
 # Operations on text files
 <table align="center">
   <thead>
-    <tr><th>Name</th> <th>Function</th></tr>
+    <tr><th>Name</th> <th>Lang</th> <th>Function</th></tr>
   </thead>
 
   <tbody>
@@ -64,7 +64,7 @@ In this repositoty you can find some useful algorithms that can simplify your pr
 # Sockets
 <table align="center">
   <thead>
-    <tr><th>Name</th> <th>Function</th></tr>
+    <tr><th>Name</th> <th>Lang</th> <th>Function</th></tr>
   </thead>
 
   <tbody>
