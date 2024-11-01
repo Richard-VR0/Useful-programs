@@ -2,7 +2,7 @@
 In this repositoty you can find some useful algorithms that can simplify your programming task.
 
 # Sorting algorithms
-<table align="center">
+<table>
   <thead>
     <tr><th>Name</th> <th>Lang</th> <th>Function</th></tr>
   </thead>
@@ -17,7 +17,7 @@ In this repositoty you can find some useful algorithms that can simplify your pr
 </table>
 
 # Management of data structures
-<table align="center">
+<table>
   <thead>
     <tr><th>Name</th> <th>Lang</th> <th>Function</th></tr>
   </thead>
@@ -31,7 +31,7 @@ In this repositoty you can find some useful algorithms that can simplify your pr
 </table>
 
 # Operations on carriers and matrices
-<table align="center">
+<table>
   <thead>
     <tr><th>Name</th> <th>Lang</th> <th>Function</th></tr>
   </thead>
@@ -74,7 +74,7 @@ In this repositoty you can find some useful algorithms that can simplify your pr
 </table>
 
 # External libraries (homemade)
-<table align="center">
+<table>
   <thead>
     <tr><th>Name</th> <th>Lang</th> <th>Function</th></tr>
   </thead>
