@@ -48,7 +48,7 @@ In this repositoty you can find some useful algorithms that can simplify your pr
 </table>
 
 # Operations on text files
-<table align="center">
+<table>
   <thead>
     <tr><th>Name</th> <th>Lang</th> <th>Function</th></tr>
   </thead>
@@ -62,7 +62,7 @@ In this repositoty you can find some useful algorithms that can simplify your pr
 </table>
 
 # Sockets
-<table align="center">
+<table>
   <thead>
     <tr><th>Name</th> <th>Lang</th> <th>Function</th></tr>
   </thead>
